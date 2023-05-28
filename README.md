@@ -1,2 +1,2 @@
 # odin-recipes
-This project shows three different recipes
+A HTML website for showcasing three different recipes
